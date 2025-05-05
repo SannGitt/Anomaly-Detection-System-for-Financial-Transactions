@@ -1,6 +1,5 @@
-# Anomaly-Detection-System-for-Financial-Transactions
+# Anomaly Detection System for Financial Transactions
 This project implements an Anomaly Detection System designed to identify outliers in sales and profit data from retail datasets. It employs three powerful anomaly detection techniques:
-
 3-Sigma Method
 Isolation Forest
 Cluster-based Local Outlier Factor (CBLOF)
@@ -21,7 +20,7 @@ The CBLOF algorithm detects anomalies by evaluating the density of data points w
 To get started with this project locally, you'll need to install the necessary Python dependencies. You can do so by using pip:
 pip install -r requirements.txt
 
-**#Usage**
+**Usage**
 Clone the repository:
 git clone https://github.com/your-username/anomaly-detection-retail-data.git
 cd anomaly-detection-retail-data
