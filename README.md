@@ -1,5 +1,6 @@
 # Anomaly Detection System for Financial Transactions
 This project implements an Anomaly Detection System designed to identify outliers in sales and profit data from retail datasets. It employs three powerful anomaly detection techniques:
+
 3-Sigma Method
 
 Isolation Forest
@@ -30,9 +31,11 @@ pip install -r requirements.txt
 Clone the repository:
 
 git clone https://github.com/your-username/anomaly-detection-retail-data.git
+
 cd anomaly-detection-retail-data
 
 Run the anomaly detection script:
+
 python detect_anomalies.py
 
 This script will apply the three anomaly detection models to your retail sales and profit data and output the detected outliers.
